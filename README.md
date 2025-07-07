@@ -28,3 +28,8 @@ The program:
 3. Compile the program:
    ```bash
    javac InfixToPostfix.java
+```
+Run the program:
+```bash
+java InfixToPostfix
+```
