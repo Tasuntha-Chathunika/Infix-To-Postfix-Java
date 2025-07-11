@@ -26,10 +26,19 @@ The program:
 1. Save the file as `InfixToPostfix.java`.
 2. Open your terminal or command prompt.
 3. Compile the program:
-   ```bash
+  ```bash
    javac InfixToPostfix.java
 ```
 Run the program:
-```bash
+   ```bash
 java InfixToPostfix
 ```
+
+## 🧪 Sample Run
+![example](screenshots/screenshot1.png)
+
+## ✍️ Author
+**S.D.Tasuntha Chathunika** 
+🎓 University of Vavuniya – Faculty of Information and Communication Technology  
+📅 Date: 2025-06-09
+🔗 [GitHub Profile](https://github.com/Tasuntha-Chathunika)
